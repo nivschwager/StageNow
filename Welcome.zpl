@@ -1,0 +1,8 @@
+! CISDFCRC16
+352B
+Welcome.prn
+00000048
+EAE9
+﻿^XA
+^FT601,309^A0I,39,38^FH\^FDWelcome To Israel^FS
+^PQ1,0,1,Y^XZ
